@@ -15,8 +15,11 @@ The repository one in the github is remote repository and the one in machine is 
 
 ![Git commands workflow](image.png)
 
-\\Commands//
+The above diagram showing the workflow of Git commands between the working directory, staging area, local repository, and remote repository.
 
-1. " git clone" is used to create a local copy of an existing remote repository, including its complete commit history, branches, and files.
-2. "git init" Create an empty Git repository or reinitialize an existing one.
-3. 
+//Commands//
+
+1."git clone" is used to create a local copy of an existing remote repository, including its complete commit history, branches, and files.
+2."git init" Create an empty Git repository or reinitialize an existing one.
+3."git add ." Stages new, modified, and deleted files (in the current directory and subdirectories).
+4."git add "file_name" Adds the "specified file" from the working directory to the staging area.
