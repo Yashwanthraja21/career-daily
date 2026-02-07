@@ -11,3 +11,12 @@ So if need to use "Rough_draft_v2.pdf" i can use it with the help of version con
 the change's made. So when ever it's required we can "Rollback" to the orginal or previous version.
 
 The repository one in the github is remote repository and the one in machine is local repository.
+
+
+![Git commands workflow](image.png)
+
+\\Commands//
+
+1. " git clone" is used to create a local copy of an existing remote repository, including its complete commit history, branches, and files.
+2. "git init" Create an empty Git repository or reinitialize an existing one.
+3. 
