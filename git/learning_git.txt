@@ -10,4 +10,4 @@ Ex: "Rough_draft.pdf" --> "Rough_draft_v2.pdf"('Some_changes' are made at Rough_
 So if need to use "Rough_draft_v2.pdf" i can use it with the help of version control system because the version control system hold's 
 the change's made. So when ever it's required we can "Rollback" to the orginal or previous version.
 
-
+The repository one in the github is remote repository and the one in machine is local repository.
