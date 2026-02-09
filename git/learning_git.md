@@ -22,4 +22,5 @@ The above diagram showing the workflow of Git commands between the working direc
 1."git clone" is used to create a local copy of an existing remote repository, including its complete commit history, branches, and files.
 2."git init" Create an empty Git repository or reinitialize an existing one.
 3."git add ." Stages new, modified, and deleted files (in the current directory and subdirectories).
-4."git add "file_name" Adds the "specified file" from the working directory to the staging area.
+4."git add file_name" Adds the "specified file" from the working directory to the staging area.
+5."git status" is used to display the current state of files in the working directory and staging area, showing which files are untracked, modified, staged, or ready to be committed.
