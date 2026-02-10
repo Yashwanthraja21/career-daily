@@ -24,3 +24,6 @@ The above diagram showing the workflow of Git commands between the working direc
 3."git add ." Stages new, modified, and deleted files (in the current directory and subdirectories).
 4."git add file_name" Adds the "specified file" from the working directory to the staging area.
 5."git status" is used to display the current state of files in the working directory and staging area, showing which files are untracked, modified, staged, or ready to be committed.
+6."git commit -m "Message"" -creates a commit (save point) by recording the changes that are currently in the staging area into the local repository.
+7."git commit -a -m "Message"" - automatically stages and commits all modified tracked files, skipping the manual "git add" step.
+8."git log" - see commit history.
