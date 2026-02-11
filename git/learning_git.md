@@ -27,3 +27,6 @@ The above diagram showing the workflow of Git commands between the working direc
 6."git commit -m "Message"" -creates a commit (save point) by recording the changes that are currently in the staging area into the local repository.
 7."git commit -a -m "Message"" - automatically stages and commits all modified tracked files, skipping the manual "git add" step.
 8."git log" - see commit history.
+9."git remote add origin "repo_link"" - This command links a local Git repository to a remote repository by adding a remote reference named origin.
+10."git push -u origin main" - pushing the files from local repo to remote repo. By using this command next time we can use "git push" "git pull".
+11."git push origin main" - This command uploads local commits from the main branch to the main branch of the remote repository named origin.
